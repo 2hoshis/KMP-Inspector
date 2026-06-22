@@ -1,10 +1,1 @@
-﻿# KMP-Inspector
 
-* This project only displays basic header and section information.
-* It does not yet decode individual entries inside sections.
-* It does not edit or save KMP files.
-* Error handling is still basic.
-
-
-
-This project is currently for learning and experimentation.
